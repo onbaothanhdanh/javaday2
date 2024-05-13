@@ -1,9 +1,5 @@
 package day2;
-
-import jdk.jshell.Snippet;
-
 import java.util.Scanner;
-
 public class ex7 {
 //    Luyện tập sử dụng cấu trúc vòng lặp while
 //    Trong phần này, chúng ta sẽ phát triển một ứng dụng nhiều chức năng cho phép người
